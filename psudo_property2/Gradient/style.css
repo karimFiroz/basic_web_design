@@ -1,0 +1,15 @@
+
+.box{
+	margin:150px auto;
+}
+.box{
+	width:1000px;
+	height:500px;
+	background:red;
+background:linear-gradient(to bottom,violet,indigo,brown,green,yellow,orange,red,orange,yellow,green,brown,indigo,violet);}
+h1{text-align:center;
+	font-size:70;
+	background:-webkit-linear-gradient(red 50%,green 50%);
+	-webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;}
+}

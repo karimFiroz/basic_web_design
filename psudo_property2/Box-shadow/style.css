@@ -1,0 +1,13 @@
+
+.box{
+	margin:150px auto;
+}
+.box{
+	width:200px;
+	height:200px;
+	background:yellow;
+	-moz-box-shadow:17px 17px 5px 0 #000;
+	-webkit-box-shadow:17px 17px 5px 0 #000;
+	-o-box-shadow:17px 17px 5px 0 #000;
+	-ex-box-shadow:17px 17px 5px 0 #000;
+}

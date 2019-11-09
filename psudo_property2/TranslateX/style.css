@@ -1,0 +1,21 @@
+
+.square{
+	margin:50px auto;
+}
+.square{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border:10px solid yellow; 
+	-moz-transition:2s;
+	-webkit-transition:2s;
+	-o-transition:2s;
+	-ex-transition:2s;
+}
+.square:hover{
+	width:200px;
+	height:200px;
+	background-color:green;
+	border:20px lolid yollow;
+	transform:translateX(100px);  
+}

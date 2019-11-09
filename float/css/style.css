@@ -1,0 +1,14 @@
+#mydiv1{
+	width:200px;
+	height:200px;
+	background:red;
+	float:left;
+margin-right:50px;
+}
+#mydiv2{
+width:200px;
+	height:200px;
+	background:green;
+	float:left;
+	margin-left:50px;
+}
