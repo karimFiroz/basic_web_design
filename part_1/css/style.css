@@ -1,0 +1,6 @@
+.parentdiv > p{color:pink;}
+.parentdiv > .childdiv p{color:blue;}
+.parentdiv > .childdiv > .childchild p{color:red;}
+.parentdiv > .childdiv > .childchild > .extrachild p{color:violet;}
+p{color:yellow;}
+
