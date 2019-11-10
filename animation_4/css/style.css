@@ -1,0 +1,28 @@
+#mydiv{
+	height:50px;
+	width:300px;
+	padding:50px;
+	background:violet;
+	border-radius:5%;
+	animation-name:firoz;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	position:relative;
+}
+body{
+	position:absolute;
+}
+
+@keyframes firoz{
+from{
+	left:0;
+}
+
+to{
+	left:1200px;
+}
+}
+
+
+

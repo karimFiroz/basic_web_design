@@ -1,0 +1,15 @@
+#mydiv{
+	height:200px;
+	width:200px;
+	background:red;
+	cursor:pointer;
+	transition:all 2s ease;
+}
+#mydiv:hover {
+    background:url("../img/1.jpg")no-repeat;
+   background-size:300px 300px;
+    transform:scale(4,4);
+}
+
+
+

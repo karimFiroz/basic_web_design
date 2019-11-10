@@ -1,0 +1,21 @@
+#mydiv{
+	height:150px;
+	width:150px;
+	background:violet;
+	border-radius:50%;
+	animation-name:firoz;
+	animation-duration:4s;
+	animation-iteration-count:10;
+}
+@keyframes firoz{
+	from{
+		background:url("../img/2.jpg")no-repeat;
+		background-size:150px 150px;
+	}
+	to{	background:url("../img/1.jpg")no-repeat;
+		background-size:150px 150px;
+	}
+}
+
+
+

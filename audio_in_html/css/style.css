@@ -1,0 +1,11 @@
+/************
+audio
+**********/
+.myaudio{
+	width:500px;
+	height:30px;
+	background:#ff0000;
+	color:yellow;
+	align:center;
+border-radius:5px;	
+}

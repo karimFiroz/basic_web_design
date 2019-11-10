@@ -1,0 +1,51 @@
+#mydiv{
+	height:150px;
+	width:150px;
+	border-radius:50%;
+	background:url("../img/2.jpg")no-repeat;
+	background-size:150px 150px;
+	animation-name:firoz;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	animation-direction:;
+	position:relative;
+}
+body{
+	position:absolute;
+}
+
+@keyframes firoz{
+0%{
+	left:0; 
+	top:0;
+	background:url("../img/1.jpg")no-repeat;
+	background-size:150px 150px;
+}
+25%{
+	left:300px; 
+	top:0px;
+	background:url("../img/2.jpg")no-repeat;
+	background-size:150px 150px;
+}
+50%{
+	left:300px;
+	top:300px;
+	background:url("../img/3.jpg")no-repeat;
+	background-size:150px 150px;
+}
+75%{
+	left:0;
+	top:300px;
+	background:url("../img/4.jpg")no-repeat;
+	background-size:150px 150px;
+}
+100%{
+	left:0; 
+	top:0;
+	background:url("../img/1.jpg")no-repeat;
+	background-size:150px 150px;
+}
+}
+
+
+
