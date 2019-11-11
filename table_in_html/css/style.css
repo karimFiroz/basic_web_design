@@ -1,0 +1,21 @@
+table{
+	width:700px;
+	border:2px solid red;
+	border-collapse:collapse;
+	background:#ddd;
+}
+table th, tr, td{
+	border:2px solid #000;
+}
+.caption{
+	background:#ddd;
+}
+.total{
+	background:green;
+	color:#fff;
+}
+.first{
+	background:blue;
+	color:#fff;
+}
+table tr{text-align:center;}

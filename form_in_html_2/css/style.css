@@ -1,0 +1,56 @@
+label{
+	color:red;
+	background:#ddd;
+	font-size:1.25em;
+}
+
+.gender{
+	color:blue;
+	background:#ddd;
+}
+/*****************
+common css
+******************/
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+input[type="color"],
+input[type="file"]{
+	width:300px;
+	padding:10px 10px;
+	color:blue;
+	background:#ddd;
+	border:1px solid red;
+	border-radius:5px;
+}
+
+
+select{
+		width:300px;
+	padding:10px 10px;
+	color:green;
+	background:#ddd;
+	border:1px solid red;
+	border-radius:5px;
+}
+select option{
+	background:violet;
+	color:#000;
+}
+.india{
+	background:#000;
+	color:#fff;
+}
+/**********************
+common css
+**********************/
+input[type="submit"],
+input[type="reset"] {
+    font-size: 24px;
+    background: #ddd;
+    border-radius: 5px;
+    margin-right:20px;
+}
+
