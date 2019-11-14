@@ -1,9 +1,8 @@
-h2{
-	font-size:30px;
-	font-family:cursive;
-	color:red;
-	margin-left:100px;
-	margin-top:50px;
-
-	text-shadow:-3px -1px 3px #000;
+h2 {
+    font-size: 30px;
+    font-family: cursive;
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-shadow: -3px 2px 7px #000;
 }

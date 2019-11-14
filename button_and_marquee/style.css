@@ -1,0 +1,13 @@
+.btn{
+	font-size:20px;
+	color:#fff;
+	background:#999;
+	padding:8px 15px;
+	border:1px solid red;
+	border-radius:5px;
+	cursor:pointer;
+}
+.marq{
+	font-size:1em;
+	color:#107C41;
+}

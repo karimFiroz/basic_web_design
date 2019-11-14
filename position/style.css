@@ -1,0 +1,17 @@
+.mydiv1{
+	width:400px;
+	height:200px;
+	background:#999;
+}
+
+.mydiv2{
+	width:100%;
+	background:red;
+	color:white;
+}
+
+.fixed_heading{
+	position:fixed;
+	background:green;
+	
+}
